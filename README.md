@@ -9,10 +9,10 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/AsmSafone/VideoPlayerBot?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AsmSafone/VideoPlayerBot)
 ![GitHub](https://img.shields.io/github/license/AsmSafone/VideoPlayerBot)
-[![Bot Updates](https://img.shields.io/badge/VideoPlayerBot-Updates%20Channel-green)](https://t.me/HungamaSupport)
-[![Bot Support](https://img.shields.io/badge/VideoPlayerBot-Support%20Group-blue)](https://t.me/BlackStormSupport)
+[![Bot Updates](https://img.shields.io/badge/VideoPlayerBot-Updates%20Channel-green)](https://t.me/lllEll2)
+[![Bot Support](https://img.shields.io/badge/VideoPlayerBot-Support%20Group-blue)](https://t.me/lllEll1)
 
-An Telegram Bot By [GAURAV🇮🇳](https://t.me/LEGENDXGAURAV) To Stream Videos in Telegram Voice Chat.
+An Telegram Bot By [GAURAV🇮🇶](https://t.me/lllEll2) To Stream Videos in Telegram Voice Chat.
 
 ## Main Features
 
@@ -27,7 +27,7 @@ An Telegram Bot By [GAURAV🇮🇳](https://t.me/LEGENDXGAURAV) To Stream Videos
 
 
 ### Heroku (Don't Complain)
-<p><a href="https://heroku.com/deploy?template=https://github.com/TeamBlackStorm/MusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github. https://heroku.com/deploy?template=https://github.com/TeamBlackStorm/MusicBot com/SourceHawak/MusicLeo"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## Commands (Set In Botfather)
 ```sh

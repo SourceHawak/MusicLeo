@@ -1,8 +1,8 @@
 {
-    "name": "Hungama Music Bot",
+    "name": "Leo Music Bot",
     "description": "An Telegram Bot By @lllEll1 To Stream Videos in Voice Chat",
     "repository": "https://github.com/SourceHawak/MusicLeo",
-    "logo": "https://telegra.ph/file/1adba0bdcbcf7d81c8ab8.jpg",
+    "logo": "https://telegra.ph/file/444ac7b98c4cd40b2b7aa.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
